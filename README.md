@@ -14,7 +14,7 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
 ### Como fazer funcionar
 
 <ol>
-  <li>Executar o arquivo SQL responsável pela criação do banco de dados/li>
+  <li>Executar o arquivo SQL responsável pela criação do banco de dados no banco de dados Mysqli (phpmyadmin, workbench, dbeaver ou qualquer outro)</li>
   <li>Copiar o projeto e extraí-lo para a pasta HTDOCS ou WWW do serviço web local</li>
   <li>Acessar o endereço local do projeto ex: localhost/projeto-integrador-postosaude</li>
   <li>Realizar o primeiro cadastro no sistema logo na página inicial</li>
