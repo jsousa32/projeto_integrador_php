@@ -7,8 +7,10 @@
 Esse projeto se refere a disciplina de projeto integrador ministrada no curso de Sistemas de Informação do Centro Universitário de Itajubá.
 O objetivo deste projeto é a criação de um sistema online onde é possível o gerenciamento e o controle dos serviços disponibilizados pelos postos de saúde locais (Itajubá-MG), facilitando assim, o acesso tanto da população local como dos funcionários das unidades de saúde.
 
-### Tecnologias utilizadas
+### Ferramentas e tecnologias utilizadas
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
 ### Como fazer funcionar
