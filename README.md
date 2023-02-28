@@ -22,6 +22,7 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
      <li>Geração de comprovante de agendamento de consulta</li>
      <li>Validação e restrição de acesso</li>
      <li>Permissões e funcionalidades definidas por nível de acesso (administrador/usuário padrão)</li>
+     <li>Solicitação online de medicamentos por parte do paciente (em desenvolvimento)</li>
 </ul>
 
 ### Como fazer funcionar
