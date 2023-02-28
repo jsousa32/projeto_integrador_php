@@ -21,7 +21,7 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
      <li>Cadastrar, alterar, listar e excluir agendamentos de consultas</li>
      <li>Geração de comprovante de agendamento de consulta</li>
      <li>Validação e restrição de acesso</li>
-     <li>Permissões e funcionalidades definidas por nível de acesso</li>
+     <li>Permissões e funcionalidades definidas por nível de acesso (administrador/usuário padrão)</li>
 </ul>
 
 ### Como fazer funcionar
