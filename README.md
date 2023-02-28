@@ -12,6 +12,18 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
+### Funcionalidades do sistema
+<ul>
+     <li>Cadastrar, alterar, listar, pesquisar e excluir pacientes</li>
+     <li>Cadastrar, alterar, listar, pesquisar e excluir médicos</li>
+     <li>Cadastrar, alterar, listar, pesquisar e excluir medicamentos</li>
+     <li>Adicionar e remover medicamentos do sistema (estoque)</li>
+     <li>Cadastrar, alterar, listar e excluir agendamentos de consultas</li>
+     <li>Geração de comprovante de agendamento de consulta</li>
+     <li>Validação e restrição de acesso</li>
+     <li>Permissão de acessos e funcionalidades por nível de acesso</li>
+</ul>
+
 ### Como fazer funcionar
 
 <ol>
