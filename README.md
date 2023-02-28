@@ -21,6 +21,6 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
   <li>Acessar o endereço local do projeto ex: localhost/projeto-integrador-postosaude</li>
   <li>Realizar o primeiro cadastro no sistema logo na página inicial</li>
   <strong>OBS</strong>: por padrão, os usuários (pacientes) são cadastrados com o nível de acesso 1 (usuário padrão), para ter acesso a todo o sistema, é preciso alterar no banco de dados na tabela (pacientes) a coluna (nível acesso) para 2. Desse modo, o usuário terá acesso como Administrador e terá permissão para acessar todo o sistema. <br>
-  <strong>OBS 2:</strong> o procedimento acima, somente é necessário para o primeiro cadastro do sistema, visto que caso haja necessidade, o administrador do sistema poderá alterar o nível de acesso dos demais usuários dentro do próprio sistema.
+  <strong>OBS 2:</strong> o procedimento acima, somente é necessário para o primeiro cadastro do sistema, visto que, caso haja necessidade, o administrador do sistema poderá alterar o nível de acesso dos demais usuários dentro do próprio sistema.
 </ol>
  
