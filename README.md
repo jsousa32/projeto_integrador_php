@@ -19,7 +19,7 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
      <li>Cadastrar, alterar, listar, pesquisar e excluir medicamentos</li>
      <li>Adicionar e remover medicamentos do sistema (estoque)</li>
      <li>Cadastrar, alterar, listar e excluir agendamentos de consultas</li>
-     <li>Geração de comprovante de agendamento de consulta</li>
+     <li>Geração de comprovante de agendamento de consulta (em PDF)</li>
      <li>Validação e restrição de acesso</li>
      <li>Permissões e funcionalidades definidas por nível de acesso (administrador/usuário padrão)</li>
      <li>Solicitação online de medicamentos por parte do paciente (em desenvolvimento)</li>
