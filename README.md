@@ -23,6 +23,7 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
      <li>Validação e restrição de acesso</li>
      <li>Permissões e funcionalidades definidas por nível de acesso (administrador/usuário padrão)</li>
      <li>Solicitação online de medicamentos por parte do paciente (em desenvolvimento)</li>
+     <li>Criação de dashboard no painel administrativo para os Administradores do sistema (a fazer)</li>
 </ul>
 
 ### Como fazer funcionar
