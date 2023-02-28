@@ -56,6 +56,7 @@ include_once '../../config/restringe-acesso.php';
             echo "<td>" . date('d/m/Y H:i', strtotime($row['created_at'])) . "</td>";
             echo "<td>" . date('d/m/Y H:i', strtotime($row['updated_at'])) . "</td>";
             echo "<td><a href='editar-medico.php?id=$row[idMedico]'>Editar</td></tr>";
+            echo "<td><a href='processa-deletar-medico.php?id=$row[idMedico]'>Excluir</td></tr>";
         }
         echo "</table>";
     } else {

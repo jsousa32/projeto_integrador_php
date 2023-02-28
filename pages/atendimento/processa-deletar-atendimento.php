@@ -18,21 +18,18 @@ include_once '../../config/valida-acesso.php';
 
     <?php
 
-    $idExcluir = $_POST['excluir'];
+    if (!empty($_GET['id'])) {
 
-    $sql = "DELETE FROM atendimentos WHERE idAtendimento='$idExcluir'";
+        $id = $_GET['id'];
 
-    $result = mysqli_query($connection, $sql);
+        $sql = "DELETE FROM atendimentos WHERE idAtendimento='$id'";
 
-    if (mysqli_affected_rows($connection)) {
-        $_SESSION['info'] = "<div class='alert alert-success text-center' role='alert'>Atendimento deletado com sucesso!</div>";
-    } else {
-        $_SESSION['info'] = "<div class='alert alert-danger text-center' role='alert'>ID inexistente ou digitado de forma incorreta!</div>";
+        $result = mysqli_query($connection, $sql);
     }
 
     mysqli_close($connection);
 
-    header('Location: deletar-atendimento.php');
+    header('Location: listar-atendimentos.php');
 
     ?>
 

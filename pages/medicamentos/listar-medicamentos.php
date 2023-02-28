@@ -57,6 +57,7 @@ include_once '../../config/valida-acesso.php';
                 echo "<td>" . date('d/m/Y H:i', strtotime($row['updated_at'])) . "</td>";
                 if (($_SESSION['nivel_acesso']) == 2) {
                     echo "<td><a href='editar-medicamento.php?id=$row[idMedicamento]'>Editar</td></tr>";
+                    echo "<td><a href='processa-deletar-medicamento.php?id=$row[idMedicamento]'>Excluir</td></tr>";
                     echo "<td><a href='adicionar-itens-medicamento.php?id=$row[idMedicamento]'>Adicionar items</a></td>";
                     echo "<td><a href='remover-itens-medicamento.php?id=$row[idMedicamento]'>Remover items</a></td>";
                 }

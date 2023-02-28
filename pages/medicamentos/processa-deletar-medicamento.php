@@ -19,21 +19,18 @@ include_once '../../config/valida-acesso.php';
 
     <?php
 
-    $excluir = $_POST['excluir'];
+    if (!empty($_GET['id'])) {
 
-    $sql = "DELETE FROM medicamentos WHERE idMedicamento='$excluir'";
+        $id = $_GET['id'];
 
-    $result = mysqli_query($connection, $sql);
+        $sql = "DELETE FROM medicamentos WHERE idMedicamento='$id'";
 
-    if (mysqli_affected_rows($connection)) {
-        $_SESSION['info'] = "<div class='alert alert-success text-center' role='alert'>Medicamento deletado com sucesso!</div>";
-    } else {
-        $_SESSION['info'] = "<div class='alert alert-danger text-center' role='alert'>ID inexistente ou digitado de forma incorreta!</div>";
+        $result = mysqli_query($connection, $sql);
     }
 
     mysqli_close($connection);
 
-    header("Location: deletar-medicamento.php");
+    header("Location: listar-medicamentos.php");
 
     ?>
 

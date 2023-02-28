@@ -28,7 +28,6 @@
         <li><a href="../pacientes/cadastro-paciente.php">Cadastrar Paciente</a></li>
         <li><a href="../pacientes/listar-pacientes.php">Listar Pacientes</a></li>
         <li><a href="../pacientes/pesquisar-paciente.php">Pesquisar Paciente</a></li>
-        <li><a href="../pacientes/deletar-paciente.php">Deletar Paciente</a></li>
     </ul>
 
     <h2>Médicos</h2>
@@ -36,7 +35,6 @@
         <li><a href="../medicos/cadastro-medico.php">Cadastrar Médico</a></li>
         <li><a href="../medicos/listar-medicos.php">Listar Médicos</a></li>
         <li><a href="../medicos/pesquisar-medico.php">Pesquisar Médico</a></li>
-        <li><a href="../medicos/deletar-medico.php">Deletar Médico</a></li>
     </ul>
 
     <h2>Medicamentos</h2>
@@ -44,14 +42,12 @@
         <li><a href="../medicamentos/cadastrar-medicamento.php">Cadastrar medicamento</a></li>
         <li><a href="../medicamentos/listar-medicamentos.php">Listar medicamentos</a></li>
         <li><a href="../medicamentos/pesquisar-medicamento.php">Pesquisar medicamento</a></li>
-        <li><a href="../medicamentos/deletar-medicamento.php">Deletar medicamento</a></li>
     </ul>
 
     <h2>Atendimento</h2>
     <ul>
         <li><a href="../atendimento/agendar-atendimento.php">Agendar atendimento</a></li>
         <li><a href="../atendimento/listar-atendimentos.php">Listar atendimentos</a></li>
-        <li><a href="../atendimento/deletar-atendimento.php">Deletar atendimento</a></li>
     </ul>
 
     <?php include_once '../../parties/scripts.php' ?>
