@@ -22,7 +22,7 @@ Esse projeto se refere a disciplina de projeto integrador ministrada no curso de
      <li>Validação e restrição de acesso</li>
      <li>Permissões e funcionalidades definidas por nível de acesso (administrador/usuário padrão)</li>
      <li>Solicitação online de medicamentos por parte do paciente (em desenvolvimento)</li>
-     <li>Dashboard no painel administrativo para os administradores do sistema (a fazer)</li>
+     <li>Dashboard no painel administrativo com informações úteis para os administradores do sistema (a fazer)</li>
 </ul>
 
 ### Como fazer funcionar
