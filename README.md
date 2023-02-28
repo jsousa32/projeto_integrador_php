@@ -29,7 +29,7 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
 
 <ol>
   <li>Baixar o projeto</li>
-  <li>Executar o arquivo SQL responsável pela criação do banco de dados no banco de dados Mysqli (phpmyadmin, workbench, dbeaver ou qualquer outro)</li>
+  <li>Executar o arquivo SQL responsável pela criação do banco de dados no SGDB (tem que ser MySql) (phpmyadmin, workbench, dbeaver ou qualquer outro)</li>
   <li>Copiar o projeto e extraí-lo para a pasta HTDOCS ou WWW do serviço web local</li>
   <li>Renomear a pasta para postosaude</li>
   <li>Alterar o arquivo config.php dentro da pasta CONFIG para os dados de conexão com o banco de dados</li>
