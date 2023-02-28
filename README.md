@@ -4,8 +4,7 @@
 
 ### Descrição do projeto
 
-Esse projeto se refere a disciplina de projeto integrador ministrada no curso de Sistemas de Informação do Centro Universitário de Itajubá pelo prof. Luiz Fernando.
-O objetivo deste projeto é a criação de um sistema online onde é possível o gerenciamento e o controle dos serviços disponibilizados pelos postos de saúde locais (Itajubá-MG), facilitando assim, o acesso tanto da população local como dos funcionários das unidades de saúde.
+Esse projeto se refere a disciplina de projeto integrador ministrada no curso de Sistemas de Informação do Centro Universitário de Itajubá pelo prof. Luiz Fernando. O objetivo deste projeto é a criação de um sistema online onde é possível o gerenciamento e o controle dos serviços disponibilizados pelos postos de saúde locais (Itajubá-MG), facilitando assim, o acesso tanto da população local como dos funcionários das unidades de saúde.
 
 ### Ferramentas e tecnologias utilizadas
 
