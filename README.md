@@ -14,11 +14,12 @@ O objetivo deste projeto é a criação de um sistema online onde é possível o
 ### Como fazer funcionar
 
 <ol>
+  <li>Baixar o projeto</li>
   <li>Executar o arquivo SQL responsável pela criação do banco de dados no banco de dados Mysqli (phpmyadmin, workbench, dbeaver ou qualquer outro)</li>
   <li>Copiar o projeto e extraí-lo para a pasta HTDOCS ou WWW do serviço web local</li>
   <li>Alterar o arquivo config.php dentro da pasta CONFIG para os dados de conexão com o banco de dados</li>
   <li>Acessar o endereço local do projeto ex: localhost/projeto-integrador-postosaude</li>
   <li>Realizar o primeiro cadastro no sistema logo na página inicial</li>
-  OBS: por padrão, os usuários (pacientes) são cadastrados com o nível de acesso 1 (usuário padrão), para ter acesso a todo o sistema, é preciso alterar no banco de dados na tabela (pacientes) a coluna (nível acesso) para 2. Desse modo, o usuário terá acesso como Administrador e terá permissão para acessar todo o sistema.
+  <strong>OBS</strong>: por padrão, os usuários (pacientes) são cadastrados com o nível de acesso 1 (usuário padrão), para ter acesso a todo o sistema, é preciso alterar no banco de dados na tabela (pacientes) a coluna (nível acesso) para 2. Desse modo, o usuário terá acesso como Administrador e terá permissão para acessar todo o sistema.
 </ol>
  
