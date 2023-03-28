@@ -17,6 +17,6 @@ define("TITLE_MENU", "Postinho Online");
 # Define as informações de configuração do banco de dados
 define("HOST", "localhost");
 define("USER", "root");
-define("PASSWORD", "root");
+define("PASSWORD", "");
 define("DB", "postosaudeDB");
 define("PORT", "3306");
