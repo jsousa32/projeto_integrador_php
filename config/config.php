@@ -19,4 +19,4 @@ define("HOST", "localhost");
 define("USER", "root");
 define("PASSWORD", "root");
 define("DB", "postosaudeDB");
-define("PORT", "8889");
+define("PORT", "3306");
